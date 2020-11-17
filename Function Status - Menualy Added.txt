@@ -1,0 +1,10 @@
+Progress:
+
+The game is working perfectly.
+The cpu chooses places randomly.
+The player decide who is the first to play.
+
+
+Next stage:
+
+Let the cpu guidelines of how to play insted of random.
