@@ -10,4 +10,3 @@ It's your decision who will play the first turn.
 # What I Learned
 
 * Java core concept.
-* 
